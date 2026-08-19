@@ -1,8 +1,8 @@
-<h1 align="center">Olá, me chamo Caio Pedrosa</h1>
+<h1 align="center">Olá, me chamo Caio Pedrosa!</h1>
 <h3 align="center">Caio Fernando Pedrosa da Silva</h3>
 
 <p align="center">
-   Desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e novos desafios.
+  💻 Desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e novos desafios.
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente aprimorando minhas habilidades em desenvolvimento de software
+- 🔭 Atualmente aprimorando minhas habilidades em desenvolvimento de software, ia generativa
 - 🌱 Sempre estudando novas tecnologias e boas práticas
 - 💬 Me chame para falar sobre Python, JavaScript, Java ou bancos de dados
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-pedrosa-13238033b/) | [Instagram](https://www.instagram.com/caio_pdsa)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-pedrosa-13238033b/) | [Instagram](https://www.instagram.com/caio_pdsa) [Gmail] caio2007pedrosa@gmail.com
 
 ---
 
@@ -40,7 +40,14 @@
 
 ### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiopedrosapy&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiopedrosapy&theme=radical" alt="Streak do GitHub" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopedrosapy&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
@@ -48,4 +55,4 @@
   <img src="https://komarev.com/ghpvc/?username=caiopedrosapy&label=Visualizações+do+perfil&color=blueviolet&style=flat" alt="Contador de visitas"/>
 </p>
 
-<p align="center"><i>Obrigado pela visita! </i></p>
+<p align="center"><i>Obrigado pela visita! 🚀</i></p>
