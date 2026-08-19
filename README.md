@@ -21,7 +21,7 @@
 - 🔭 Atualmente aprimorando minhas habilidades em desenvolvimento de software, ia generativa
 - 🌱 Sempre estudando novas tecnologias e boas práticas
 - 💬 Me chame para falar sobre Python, JavaScript, Java ou bancos de dados
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-pedrosa-13238033b/) | [Instagram](https://www.instagram.com/caio_pdsa) [Gmail] caio2007pedrosa@gmail.com
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-pedrosa-13238033b/) | [Instagram](https://www.instagram.com/caio_pdsa) caio2007pedrosa@gmail.com
 
 ---
 
