@@ -74,13 +74,7 @@
 
 ---
 
-## 🏆 Troféus
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=caiopedrosapy&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
----
 
 ## 🐍 Contribuições
 
