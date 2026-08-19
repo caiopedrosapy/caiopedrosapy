@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Caio 👋</h1>
+<h1 align="center">Olá, me chamo Caio Pedrosa</h1>
 <h3 align="center">Caio Fernando Pedrosa da Silva</h3>
 
 <p align="center">
-  💻 Desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e novos desafios.
+   Desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e novos desafios.
 </p>
 
 <p align="center">
@@ -55,4 +55,4 @@
   <img src="https://komarev.com/ghpvc/?username=caiopedrosapy&label=Visualizações+do+perfil&color=blueviolet&style=flat" alt="Contador de visitas"/>
 </p>
 
-<p align="center"><i>Obrigado pela visita! 🚀</i></p>
+<p align="center"><i>Obrigado pela visita! </i></p>
